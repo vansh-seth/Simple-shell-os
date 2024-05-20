@@ -53,6 +53,7 @@ Run the compiled program:
 ```bash
 sudo ./shell
 ```
+![image](https://github.com/vansh-seth/Simple-shell-os/assets/111755254/bafc72c8-8761-4bea-88ff-af2b77b77e71)
 
 You will be presented with a prompt `vansh>` where you can enter commands.
 
