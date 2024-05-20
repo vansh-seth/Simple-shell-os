@@ -66,7 +66,7 @@ You will be presented with a prompt `vansh>` where you can enter commands.
 - **bg:** Display the number of background jobs.
 - **fg:** Display the number of foreground jobs.
 - **addjob \<name> \<burst_time> \<arrival_time>:** Add a new job.
-- **schedule:** Schedule and execute jobs.
+- **schedule:** Schedule and execute jobs in Round Robin manner.
 - **help:** Display the help message with available commands.
 - **ls:** Show files in the current directory.
 - **run \<filename>:** Compile and run a C file.
