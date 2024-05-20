@@ -78,7 +78,7 @@ You will be presented with a prompt `vansh>` where you can enter commands.
   ```bash
   vansh> addjob job1 5 0
   ```
-
+![image](https://github.com/vansh-seth/Simple-shell-os/assets/111755254/468d6c10-a4aa-46f9-8d1f-5cd27970bffa)
 
 - **Scheduling Jobs:**
 
