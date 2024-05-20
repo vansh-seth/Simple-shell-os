@@ -113,11 +113,16 @@ You will be presented with a prompt `vansh>` where you can enter commands.
   ```bash
   vansh> quit
   ```
+![image](https://github.com/vansh-seth/Simple-shell-os/assets/111755254/066995ed-09a8-4954-a9ea-cc955125c852)
+
 - **Displaying number of jobs:**
 
   ```bash
   vansh> jobs
   ```
+ 
+![image](https://github.com/vansh-seth/Simple-shell-os/assets/111755254/e4c868c3-3f20-4c07-bc62-588ca2d8e485)
+
 
 ### Error Handling
 
