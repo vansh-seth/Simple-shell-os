@@ -79,6 +79,7 @@ You will be presented with a prompt `vansh>` where you can enter commands.
   vansh> addjob job1 5 0
   ```
 
+
 - **Scheduling Jobs:**
 
   ```bash
@@ -102,6 +103,7 @@ You will be presented with a prompt `vansh>` where you can enter commands.
   ```bash
   vansh> help
   ```
+![image](https://github.com/vansh-seth/Simple-shell-os/assets/111755254/d7e91206-98c3-4d49-9855-667a5715f1a1)
 
 - **For going back to the terminal**
 
