@@ -99,6 +99,7 @@ You will be presented with a prompt `vansh>` where you can enter commands.
   ```bash
   vansh> run program.c
   ```
+![image](https://github.com/vansh-seth/Simple-shell-os/assets/111755254/079dbe48-2b29-4bf2-b22a-beca8cfe53ea)
 
 - **Showing What all commands are there:**
 
