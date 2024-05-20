@@ -1,7 +1,5 @@
 # Simple-shell-os
 
-# Simple Job Scheduler
-
 This project is a simple job scheduler implemented in C. It supports adding, scheduling, and executing jobs with specific commands. The job scheduler is capable of handling foreground and background jobs, with a focus on round-robin scheduling.
 
 ## Features
