@@ -34,6 +34,8 @@ Now, get that directory:
 cd /mnt/c/shell
 ```
 
+![image](https://github.com/vansh-seth/Simple-shell-os/assets/111755254/855bc18e-1870-474e-99cc-bc7ac7a7716b)
+
 ### Compilation
 
 To compile the project, use the following command:
