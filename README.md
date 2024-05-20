@@ -92,6 +92,7 @@ You will be presented with a prompt `vansh>` where you can enter commands.
   ```bash
   vansh> ls
   ```
+![image](https://github.com/vansh-seth/Simple-shell-os/assets/111755254/71fab1c2-ad07-42ea-a33d-29849b9ea5f8)
 
 - **Compiling and Running a C Program:**
 
