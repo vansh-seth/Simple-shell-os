@@ -85,6 +85,7 @@ You will be presented with a prompt `vansh>` where you can enter commands.
   ```bash
   vansh> schedule
   ```
+![image](https://github.com/vansh-seth/Simple-shell-os/assets/111755254/850ce5df-4675-4d31-92b3-22b78a2a4a77)
 
 - **Running a System Command:**
 
