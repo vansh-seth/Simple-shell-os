@@ -44,6 +44,8 @@ To compile the project, use the following command:
 sudo gcc shell.c -o shell 
 ```
 
+![image](https://github.com/vansh-seth/Simple-shell-os/assets/111755254/2c992101-77ca-40e2-9312-c12d804b5f2c)
+
 ### Running
 
 Run the compiled program:
