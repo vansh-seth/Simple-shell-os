@@ -16,6 +16,23 @@ This project is a simple job scheduler implemented in C. It supports adding, sch
 
 - GCC compiler
 - Unix-like operating system (Linux, macOS, etc.)
+- WSL
+
+### If folder is stored in c drive
+
+To mount drive, use the following command:
+
+```bash
+sudo mkdir /mnt/c
+```
+```bash
+sudo mount -t drvfs C: /mnt/c
+```
+Now, get that directory:
+
+```bash
+cd /mnt/c/shell
+```
 
 ### Compilation
 
